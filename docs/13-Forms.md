@@ -17,7 +17,7 @@ We can combine the two by making the React state be the “single source of trut
 
 ### Controlled **Function** Components
 
-Below is an example of what a controlled component would like like in a function component.
+Below is an example of what a controlled component would look like in a function component.
 
 1. Delete the current code in `main.js`.
 2. Add the following code to `main.js`
